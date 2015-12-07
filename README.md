@@ -1,3 +1,3 @@
-# LegoBatmanFan.page
+# LegoBatmanFan page
 
 This repository will eventually contain/host content for my website...
