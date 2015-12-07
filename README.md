@@ -1,1 +1,3 @@
-# LegoBatmanFan.github.io
+# LegoBatmanFan.page
+
+This repository will eventually contain/host content for my website...
